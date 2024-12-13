@@ -1,5 +1,11 @@
 # @inato-form/core
 
+## 0.1.0
+
+### Minor Changes
+
+- [#4](https://github.com/inato/effect-form/pull/4) [`84fb9b8`](https://github.com/inato/effect-form/commit/84fb9b83cc481c4b02f58b40585e4ff180983706) Thanks @AlexGeb! - Add effect-form core codebase
+
 ## 0.0.1
 
 ### Patch Changes
